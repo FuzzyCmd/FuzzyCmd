@@ -10,6 +10,7 @@
   "default_locale": "en",
   "background": {
     "scripts": [
+      "scripts/hotkeys.js",
       "scripts/background.js"
     ]
   },
@@ -42,7 +43,20 @@
     },
     "default_title": "Extension Boilerplate",
     "default_popup": "popup.html"
+  },
+  "commands": {
+    "toggle-feature": {
+      "suggested_key": {
+        "default": "Ctrl+Space",
+        "linux": "Ctrl+Space"
+      },
+      "description": "Send a 'toggle-feature' event to the extension"
+    },
+    "waka-feature": {
+      "suggested_key": {
+        "default": "Alt+P"
+      },
+      "description": "Send a 'waka-feature' event to the extension"
+    }
   }
 }
-
-

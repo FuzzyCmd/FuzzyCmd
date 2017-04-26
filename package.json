@@ -1,7 +1,7 @@
 {
-  "name": "extension-boilerplate",
-  "version": "0.0.2",
-  "description": "A template for creating cross-browser extensions",
+  "name": "FuzzySearchExt",
+  "version": "0.0.0",
+  "description": "Fuzzy Search Extension for modern Browsers",
   "scripts": {
     "chrome-build": "TARGET=chrome gulp",
     "opera-build": "TARGET=opera gulp",
@@ -17,13 +17,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/EmailThis/extension-boilerplate"
+    "url": "https://github.com/FuzzySearchExt/FuzzySearchExt.git"
   },
-  "author": "Bharani <bharani91@gmail.com> (https://github.com/bharani91)",
+  "author": "FuzzySearchExt <FuzzySearchExt@buglog.ru> (https://github.com/FuzzySearchExt)",
   "bugs": {
-    "url": "https://github.com/EmailThis/extension-boilerplate/issues"
+    "url": "https://github.com/FuzzySearchExt/FuzzySearchExt/issues"
   },
-  "homepage": "https://www.emailthis.me/extension-boilerplate",
+  "homepage": "https://github.com/FuzzySearchExt/FuzzySearchExt",
   "devDependencies": {
     "babel-core": "^6.1.2",
     "babel-preset-es2015": "^6.1.2",
