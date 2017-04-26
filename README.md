@@ -1,8 +1,8 @@
 
-# FuzzySearchExt
+# FuzzyCmd
 
 ## Installation
-1. Clone the repository `git clone https://github.com/FuzzySearchExt/FuzzySearchExt.git`
+1. Clone the repository `git clone https://github.com/FuzzyCmd/FuzzyCmd.git`
 2. Run `npm install`
 3. Run `npm run build`
 
@@ -10,12 +10,12 @@
 ##### Load the extension in Chrome & Opera
 1. Open Chrome/Opera browser and navigate to chrome://extensions
 2. Select "Developer Mode" and then click "Load unpacked extension..."
-3. From the file browser, choose to `FuzzySearchExt/build/chrome` or (`FuzzySearchExt/build/opera`)
+3. From the file browser, choose to `FuzzyCmd/build/chrome` or (`FuzzyCmd/build/opera`)
 
 
 ##### Load the extension in Firefox
 1. Open Firefox browser and navigate to about:debugging
-2. Click "Load Temporary Add-on" and from the file browser, choose `FuzzySearchExt/build/firefox`
+2. Click "Load Temporary Add-on" and from the file browser, choose `FuzzyCmd/build/firefox`
 
 
 ## Developing
